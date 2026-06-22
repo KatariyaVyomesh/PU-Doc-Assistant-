@@ -1,0 +1,274 @@
+[
+    {
+        "id": "34e11f68-d4fc-4b0a-adda-f42be698ffef",
+        "title": "New Chat",
+        "date": "2026-03-31 00:06",
+        "messages": [
+            {
+                "role": "ai",
+                "content": "This is a fresh workspace. Upload documents to this chat to get started!"
+            }
+        ]
+    },
+    {
+        "id": "2d9fdbc9-3cb5-4ba0-95df-094e0c631af4",
+        "title": "New Chat",
+        "date": "2026-03-31 00:06",
+        "messages": [
+            {
+                "role": "ai",
+                "content": "This is a fresh workspace. Upload documents to this chat to get started!"
+            }
+        ]
+    },
+    {
+        "id": "c6eddf1d-fac2-48bd-bc30-5d34d38ee368",
+        "title": "New Chat",
+        "date": "2026-03-30 23:40",
+        "messages": [
+            {
+                "role": "ai",
+                "content": "This is a fresh workspace. Upload documents to this chat to get started!"
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've processed **Vyomesh_Katariya_Resume_Intuit.docx** for this conversation."
+            }
+        ]
+    },
+    {
+        "id": "771f73de-20c2-4a92-8f58-7a627be6d299",
+        "title": "what skills vyomesh have?",
+        "date": "2026-03-30 19:08",
+        "messages": [
+            {
+                "role": "ai",
+                "content": "This is a fresh workspace. Upload documents to this chat to get started!"
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've processed **Vyomesh_Katariya_Resume_Intuit.docx** for this conversation."
+            },
+            {
+                "role": "user",
+                "content": "what skills vyomesh have?"
+            },
+            {
+                "role": "ai",
+                "content": "Vyomesh Katariya has the following skills:\n\n### **Programming Languages** (6)\n- Python\n- JavaScript\n- TypeScript\n- SQL\n- Java\n- C++\n\n### **Frontend Development** (5)\n- React\n- HTML\n- CSS\n- JavaScript\n- TypeScript\n\n### **Backend Development** (6)\n- Python (Django, FastAPI)\n- Node.js\n- RESTful APIs\n- MySQL\n- PostgreSQL\n- MongoDB\n\n### **Full-Stack Development** (3)\n- End-to-end application development\n- Agile/Scrum methodologies\n- Git version control\n\n### **Cloud & Tools** (6)\n- AWS\n- Docker\n- Git/GitHub\n- VS Code\n- Google Colab\n- CI/CD principles\n\n### **Data Science & ML** (8)\n- Pandas\n- NumPy\n- Matplotlib\n- Seaborn\n- scikit-learn\n- TensorFlow\n- NLP\n- Feature Engineering\n\n### **AI/GenAI Frameworks** (6)\n- LangChain\n- LangGraph\n- LangSmith\n- RAG pipelines\n- Prompt Engineering\n- LLM integration (OpenAI, Gemini)\n\n### **Additional Qualifications**\n- Agile Development (Scrum methodologies, sprint planning)\n- AI & Generative AI (LLMs, transformer architectures, prompt engineering)\n- Collaboration & Communication\n- Problem-Solving (debugging, algorithm optimization, scalable solutions)\n\n**Total Skills Count**: 39"
+            },
+            {
+                "role": "user",
+                "content": "which project hemal made?"
+            },
+            {
+                "role": "ai",
+                "content": "The document does not provide information about a person named \"Hemal\" or any projects associated with them."
+            },
+            {
+                "role": "user",
+                "content": "which project are mention in document"
+            },
+            {
+                "role": "ai",
+                "content": "The following projects are mentioned in the document:\n\n1. **Full-Stack Resume Classifier Web Application**  \n   - **Technologies Used**: Django, Python, NLP, Machine Learning  \n   - **Description**: An end-to-end machine learning web application developed to predict job roles from resume text with 92% accuracy. It includes an NLP preprocessing pipeline and integration of a scikit-learn Logistic Regression model.\n\n2. **PDEU Gujarat First Largest Fintech Hackathon Project**  \n   - **Description**: A real-time vehicle tracking dashboard with ML-powered analytics and interactive data visualizations.  \n   - **Team Role**: Led a team of 4.\n\n3. **Adani Hackathon - Food Waste Reduction Project**  \n   - **Description**: An end-to-end solution combining ML prediction models, Power BI dashboards, Django backend, and Hugging Face API integration.\n\n4. **Odoo Hackathon 2025 - ReWear Platform**  \n   - **Description**: A sustainable e-commerce platform for clothing exchange using Django, ML recommendation models, and SQLite database.\n\n**Total Projects Mentioned**: 4"
+            },
+            {
+                "role": "user",
+                "content": "in which position vyomesh achieve in pdeu hackathon?"
+            },
+            {
+                "role": "ai",
+                "content": "Vyomesh achieved **4th Place** in the PDEU Gujarat First Largest Fintech Hackathon."
+            }
+        ]
+    },
+    {
+        "id": "6acc14b9-4251-45ec-93e4-117885bf1132",
+        "title": "New Chat",
+        "date": "2026-03-30 16:23",
+        "messages": [
+            {
+                "role": "ai",
+                "content": "This is a fresh workspace. Upload documents to this chat to get started!"
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've processed **Vyomesh_Katariya_Resume_Intuit.docx** for this conversation."
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've processed **Vyomesh_Katariya_Resume_Sanctity_ai.docx** for this conversation."
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've processed **Vyomesh_Katariya_Resume_Tower_Research_Optimized.docx** for this conversation."
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've processed **Vyomesh_Katariya_Pokus_ai_SDE_AI.pdf** for this conversation."
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've processed **Vyomesh_Katariya_Resume_Intuit.docx** for this conversation."
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've indexed the link for this workspace: **https://www.google.com**."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **https://www.google.com** from this chat's memory."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **Vyomesh_Katariya_Resume_Intuit.docx** from this chat's memory."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **Vyomesh_Katariya_Resume_Tower_Research_Optimized.docx** from this chat's memory."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **Vyomesh_Katariya_Resume_Sanctity_ai.docx** from this chat's memory."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **Vyomesh_Katariya_Resume_Intuit.docx** from this chat's memory."
+            }
+        ]
+    },
+    {
+        "id": "b068d5a5-b32b-4b42-b613-84ec4da5e798",
+        "title": "New Chat",
+        "date": "2026-03-30 16:06",
+        "messages": [
+            {
+                "role": "ai",
+                "content": "This is a fresh workspace. Upload documents to this chat to get started!"
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've indexed the link for this workspace: **https://www.google.com**."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **https://www.google.com** from this chat's memory."
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've indexed the link for this workspace: **https://www.google.com**."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **https://www.google.com** from this chat's memory."
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've processed **Vyomesh_Katariya_Cover_Letter_Tower_Research.docx** for this conversation."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **Vyomesh_Katariya_Cover_Letter_Tower_Research.docx** from this chat's memory."
+            }
+        ]
+    },
+    {
+        "id": "20909751-3b52-4e38-ba35-bd75069c9a85",
+        "title": "summarize the document",
+        "date": "2026-03-29 16:59",
+        "messages": [
+            {
+                "role": "user",
+                "content": "summarize the document"
+            },
+            {
+                "role": "ai",
+                "content": "The document is a job application letter from Vyomesh Katariya for a Core Engineering Intern position at Tower Research Capital India. It highlights his academic achievements, technical skills, and relevant project experiences. Key points include:\n\n1. **Leadership and Teamwork**: Led cross-functional teams in hackathons, achieving notable results and demonstrating strong project management and collaborative skills.\n\n2. **Technical Expertise**: \n   - Proficient in Python and Java.\n   - Experience with SQL (MySQL, PostgreSQL, SQLite) and NoSQL (MongoDB, ElasticSearch) databases.\n   - Skilled in backend development, database management, and algorithmic problem-solving.\n   - Developed production-ready applications such as a Resume Classifier and an AI-powered NewsResearcher tool.\n\n3. **Project Experience**: \n   - Agentic AI Workflow Orchestration project involving complex workflows, database connectivity, and real-time streaming.\n   - Experience in full development lifecycle from requirement gathering to deployment.\n\n4. **Interest in Tower Research**: Drawn to the company's focus on technological innovation and the opportunity to work on middle and back-office applications, reference data management, trade reconciliation, and compliance systems.\n\n5. **Contact Information and Closing**: Provides contact details and expresses eagerness to discuss how his skills align with the team's needs."
+            },
+            {
+                "role": "user",
+                "content": "whats skill vyomesh have"
+            },
+            {
+                "role": "ai",
+                "content": "Vyomesh Katariya possesses the following skills:\n\n### **Programming Languages (4)**\n- Python\n- Java\n- Shell Scripting\n- SQL (MySQL, PostgreSQL, SQLite)\n\n### **NoSQL Databases (3)**\n- MongoDB\n- ElasticSearch\n- SQLite\n\n### **Web Development (2)**\n- Django\n- API Development\n\n### **System Administration (1)**\n- Linux System Administration\n\n### **Other Technical Skills (3)**\n- Database Design and Optimization\n- Data Pipelines\n- Full Development Lifecycle\n\n### **Soft Skills**\n- Leadership\n- Team Collaboration\n- Problem-Solving\n- Project Management\n\n**Total Skills Counted: 16**"
+            },
+            {
+                "role": "user",
+                "content": "Why are users frustrated with AI support on Swiggy and Zomato?"
+            },
+            {
+                "role": "ai",
+                "content": "Users are frustrated with AI support on Swiggy and Zomato because resolving complaints has become slower, more rigid, and harder to escalate. While these platforms use chatbot-led systems to reduce costs and handle routine queries, customers often find themselves stuck in loops with no clear path to reach a human agent. This results in unresolved issues and a poor user experience, as the automated systems fail to provide timely or effective solutions."
+            },
+            {
+                "role": "user",
+                "content": "when the tata ipl 2026 start?"
+            },
+            {
+                "role": "ai",
+                "content": "The document does not provide information about the start date of the Tata IPL 2026."
+            },
+            {
+                "role": "user",
+                "content": "which skills pratham have in genai"
+            },
+            {
+                "role": "ai",
+                "content": "The document does not provide information about Pratham or their skills in GenAI."
+            },
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "ai",
+                "content": "Hello! How can I assist you today?"
+            },
+            {
+                "role": "ai",
+                "content": "Success! I've indexed the link for this workspace: **https://www.google.com**."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **https://www.google.com** from this chat's memory."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **https://www.google.com** from this chat's memory."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **https://www.google.com** from this chat's memory."
+            },
+            {
+                "role": "ai",
+                "content": "Removed **https://www.google.com** from this chat's memory."
+            }
+        ]
+    },
+    {
+        "id": "6c3895f5-91fb-4fb5-a58e-fa14242d7472",
+        "title": "Why are users frustrated with ...",
+        "date": "2026-03-29 16:36",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Why are users frustrated with AI support on Swiggy and Zomato?"
+            },
+            {
+                "role": "ai",
+                "content": "Users are frustrated with AI support on Swiggy and Zomato because resolving complaints has become slower, more rigid, and harder to escalate. While these platforms use chatbot-led systems to reduce costs and prevent misuse, customers find the support process less effective and more frustrating."
+            },
+            {
+                "role": "user",
+                "content": "ipl start on which date?"
+            },
+            {
+                "role": "ai",
+                "content": "The document does not provide this information."
+            }
+        ]
+    }
+]
